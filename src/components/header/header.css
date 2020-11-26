@@ -1,0 +1,11 @@
+.header {
+    width: 300px;
+    margin: auto;
+}
+
+.header .header-logo{
+    font-weight: bold;
+    color: #777;
+    text-transform: uppercase;
+    text-decoration: none;
+}
